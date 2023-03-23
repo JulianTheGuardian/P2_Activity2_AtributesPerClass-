@@ -10,15 +10,15 @@ package co.edu.udes.p2_actividad_2;
  */
 public class Computer {
     
-    String cpu;
-    String gpu;
-    String ram;
-    String psu;
-    String motherboard;
-    String disk;
-    String screen;
-    String keyboard;
-    String mouse;
+    private String cpu;
+    private String gpu;
+    private String ram;
+    private String psu;
+    private String motherboard;
+    private String disk;
+    private String screen;
+    private String keyboard;
+    private String mouse;
     
     
 }

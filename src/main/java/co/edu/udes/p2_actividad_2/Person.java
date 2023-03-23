@@ -10,19 +10,19 @@ package co.edu.udes.p2_actividad_2;
  */
 public class Person {
     
-    String name;
-    String lastName;
-    String idCard;
-    String eyeColor;
-    String skinColor;
-    String hairColor;
-    String gender;
-    String typeOfBlood;
-    String nacionality;
-    String birthday;
-    int age;
-    int height;
-    int weigth;
-    boolean facialHair;
+    private String name;
+    private String lastName;
+    private String idCard;
+    private String eyeColor;
+    private String skinColor;
+    private String hairColor;
+    private String gender;
+    private String typeOfBlood;
+    private String nacionality;
+    private String birthday;
+    private int age;
+    private int height;
+    private int weigth;
+    private boolean facialHair;
     
 }

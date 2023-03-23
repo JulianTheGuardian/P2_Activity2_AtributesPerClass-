@@ -10,13 +10,13 @@ package co.edu.udes.p2_actividad_2;
  */
 public class Pet {
     
-    String name;
-    String species;
-    String diet;
-    String homeAdress;
-    String color;
-    String owner;
-    int age;
-    float weight;
-    float height;
+    private String name;
+    private String species;
+    private String diet;
+    private String homeAdress;
+    private String color;
+    private String owner;
+    private int age;
+    private float weight;
+    private float height;
 }

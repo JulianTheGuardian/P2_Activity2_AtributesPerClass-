@@ -10,14 +10,14 @@ package co.edu.udes.p2_actividad_2;
  */
 public class City {
     
-    String name;
-    String coordinates;
-    String ruler;
-    String flag;
-    String anthem;
-    String infraestructure;
-    String economy;
-    int numberOfCiticenz;
-    float territory;
+    private String name;
+    private String coordinates;
+    private String ruler;
+    private String flag;
+    private String anthem;
+    private String infraestructure;
+    private String economy;
+    private int numberOfCiticenz;
+    private float territory;
     
 }

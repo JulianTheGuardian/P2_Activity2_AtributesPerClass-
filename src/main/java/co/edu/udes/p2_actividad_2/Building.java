@@ -10,11 +10,11 @@ package co.edu.udes.p2_actividad_2;
  */
 public class Building {
     
-    String purpose;
-    String name;
-    String adress;
-    String style;
-    String dateOfConstruction;
-    int heigth;
-    int numberOfFloors;
+    private String purpose;
+    private String name;
+    private String adress;
+    private String style;
+    private String dateOfConstruction;
+    private int heigth;
+    private int numberOfFloors;
 }

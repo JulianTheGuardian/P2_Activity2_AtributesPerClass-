@@ -10,13 +10,13 @@ package co.edu.udes.p2_actividad_2;
  */
 public class Enterprise {
     
-    String name;
-    String owner;
-    String politics;
-    String activities;
-    int profits;
-    int economicResources;
-    int bills;
-    int numberOfEmployees;
-    int numberOfCostumers;
+    private String name;
+    private String owner;
+    private String politics;
+    private String activities;
+    private int profits;
+    private int economicResources;
+    private int bills;
+    private int numberOfEmployees;
+    private int numberOfCostumers;
 }

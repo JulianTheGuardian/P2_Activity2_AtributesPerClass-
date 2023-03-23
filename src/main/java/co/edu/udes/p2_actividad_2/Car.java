@@ -10,18 +10,18 @@ package co.edu.udes.p2_actividad_2;
  */
 public class Car {
     
-    String branch;
-    String model;
-    String licensePlate;
-    String color;
-    String typeOfFuel;
-    String typeOfTransmission;
-    String engine;
-    String electricSystem;
-    int numberOfDoors;
-    int year;   
-    int capacityOfPassengers;
-    int mileage;
+    private String branch;
+    private String model;
+    private String licensePlate;
+    private String color;
+    private String typeOfFuel;
+    private String typeOfTransmission;
+    private String engine;
+    private String electricSystem;
+    private int numberOfDoors;
+    private int year;   
+    private int capacityOfPassengers;
+    private int mileage;
         
     
     

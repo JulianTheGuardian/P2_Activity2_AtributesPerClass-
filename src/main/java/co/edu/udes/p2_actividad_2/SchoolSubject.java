@@ -10,13 +10,13 @@ package co.edu.udes.p2_actividad_2;
  */
 public class SchoolSubject {
     
-    String teacher;
-    String nombre;
-    String topics;
-    String difficulty;
-    String methodology;
-    String academicResources;
-    int time;
-    int numberOfStudents;
-    float grades;
+    private String teacher;
+    private String nombre;
+    private String topics;
+    private String difficulty;
+    private String methodology;
+    private String academicResources;
+    private int time;
+    private int numberOfStudents;
+    private float grades;
 }

@@ -10,15 +10,15 @@ package co.edu.udes.p2_actividad_2;
  */
 public class Motorcycle {
     
-    String branch;
-    String model;
-    String licensePlate;
-    String color;
-    String typeOfFuel;
-    String typeOfTransmission;
-    String engine;
-    String electricSystem;
-    int year;
-    int mileage;
-    boolean trunk;
+    private String branch;
+    private String model;
+    private String licensePlate;
+    private String color;
+    private String typeOfFuel;
+    private String typeOfTransmission;
+    private String engine;
+    private String electricSystem;
+    private int year;
+    private int mileage;
+    private boolean trunk;
 }
